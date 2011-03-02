@@ -1,0 +1,124 @@
+// !$*UTF8*$!
+{
+	410999F6131D4F4400A93292 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'midiin' was not declared in this scope";
+		fRef = AC309C391559FB944B75B721 /* Main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 95;
+		rType = 1;
+	};
+	41099A14131DB48B00A93292 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AC309C391559FB944B75B721 /* Main.cpp */;
+		name = "Main.cpp: 173";
+		rLen = 0;
+		rLoc = 5503;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 1328;
+	};
+	41AA70EB131BE8A7006F5D73 /* MidiSerial */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MidiSerial;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	41AA70F4131BE8A9006F5D73 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	41AA70F5131BE8A9006F5D73 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5445BC834467A81FD646A99E /* MidiSerial */ = {
+		activeExec = 0;
+		executables = (
+			41AA70EB131BE8A7006F5D73 /* MidiSerial */,
+		);
+	};
+	5FEE5EDC358DC600323CDEE5 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 41AA70EB131BE8A7006F5D73 /* MidiSerial */;
+		activeTarget = 5445BC834467A81FD646A99E /* MidiSerial */;
+		codeSenseManager = 41AA70F5131BE8A9006F5D73 /* Code sense */;
+		executables = (
+			41AA70EB131BE8A7006F5D73 /* MidiSerial */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320687366;
+			PBXWorkspaceStateSaveDate = 320687366;
+		};
+		perUserProjectItems = {
+			410999F6131D4F4400A93292 /* XCBuildMessageTextBookmark */ = 410999F6131D4F4400A93292 /* XCBuildMessageTextBookmark */;
+			41099A14131DB48B00A93292 /* PBXTextBookmark */ = 41099A14131DB48B00A93292 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 41AA70F4131BE8A9006F5D73 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	AC309C391559FB944B75B721 /* Main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 2119}}";
+			sepNavSelRange = "{5503, 0}";
+			sepNavVisRange = "{1328, 757}";
+			sepNavWindowFrame = "{{15, 222}, {907, 775}}";
+		};
+	};
+}
